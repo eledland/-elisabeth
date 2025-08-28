@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eledland
+- 👋 Hi, I’m -elisabeth
 - 👀 I’m interested in phython
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on geospatial modelling
